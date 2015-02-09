@@ -1,0 +1,17 @@
+{
+  "name": "cl-ftp-upload",
+  "version": "0.0.1",
+  "description": "Very, very simple tool to upload ftp dirs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "glob": "^4.3.5",
+    "jsftp": "^1.5.0",
+    "neo-async": "^0.5.3"
+  }
+}
